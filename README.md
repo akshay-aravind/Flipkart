@@ -1,2 +1,2 @@
-# potride
-potride is a creator platform I aspire to build
+# Flipkart
+flipkart web page
